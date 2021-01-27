@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std; 
+int main() {
+cout <<"Hewwo Kind Person!" << endl;
+cout << "You are looking very nice today! I hope everything is good!\n";
+cout << "--Queue Africa by Toto--";
+cout << "starts dancing' << endl;
+}
